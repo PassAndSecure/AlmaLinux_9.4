@@ -4,7 +4,7 @@
 Ce dépôt contient l'ISO pour AlmaLinux 9.4 AMD64 Minimal. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
 ## Téléchargement
-Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`AlmaLinux-linux-2023.3-installer-Minimal-amd64.iso`](https://github.com/PassAndSecure/AlmaLinux-linux-2023.3/releases/download/AlmaLinux-linux-2023.3-installer-Minimal-amd64/AlmaLinux-linux-2023.3-installer-Minimal-amd64.iso) pour le télécharger.
+Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`AlmaLinux-9.4-x86_64-minimal.iso`](https://github.com/PassAndSecure/AlmaLinux_9.4/releases/download/AlmaLinux-9.4-x86_64-minimal/AlmaLinux-9.4-x86_64-minimal.iso) pour le télécharger.
 
 ## Utilisation
 L'ISO est fourni tel quel pour faciliter l'installation d'AlmaLinux. Vous pouvez l'utiliser pour créer une clé USB bootable ou pour démarrer une machine virtuelle.
