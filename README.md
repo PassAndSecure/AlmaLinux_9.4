@@ -3,6 +3,8 @@
 ## À propos
 Ce dépôt contient l'ISO pour AlmaLinux 9.4 AMD64 Minimal. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`AlmaLinux-9.4-x86_64-minimal.iso`](https://github.com/PassAndSecure/AlmaLinux_9.4/releases/download/AlmaLinux-9.4-x86_64-minimal/AlmaLinux-9.4-x86_64-minimal.iso) pour le télécharger.
 
