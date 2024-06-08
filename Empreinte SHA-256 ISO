@@ -1,0 +1,6 @@
+SHA-256:
+20123bb9f8319143e792b906137236bdcb0d10b023c36626ca2d8e9f62144eb9
+
+Vérifier l'intégrité de l'ISO :
+Sous Linux : sha256sum AlmaLinux-9.4-x86_64-minimal.iso
+Sous Windows : CertUtil -hashfile AlmaLinux-9.4-x86_64-minimal.iso SHA256
